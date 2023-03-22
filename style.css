@@ -1,0 +1,47 @@
+body{
+    background-image: url("https://www.scottishlandscapepainting.co.uk/wp-content/uploads/2015/01/Aberdeen-painting-print-beach-Scotland-art-canvas-scaled.jpg");
+    background-position: center;
+    background-size: cover;  /*se ajustará na tela inteira*/
+    font-family: 'Courier New', Courier, monospace;
+    color:#0d0d0d;
+    font-weight: bold;
+    font-size: 18px;
+    text-shadow: 2px 2px 2px white;
+    
+
+}
+#myCanvas{
+    background-color: aliceblue;
+    border: 8px ridge #ab0cb4;
+    cursor: pointer;
+}
+
+
+
+h1{
+    
+    color: #6d0566;
+    text-shadow: 2px 2px 2px white;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 5px;
+
+}
+
+ button {
+    background-color: #550263;
+    border: none;
+    color: white;
+    padding: 8px;
+    font-size: 14px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+    width: 80px;
+    background-color:#070707;
+    color: #f2def1;
+    border: none;
+    height: 30px;
+  }
